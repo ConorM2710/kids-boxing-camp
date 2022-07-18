@@ -13,6 +13,10 @@ header {
     
 }
 
+body {
+
+}
+
 h1 {
     position: absolute;
     padding: 3px;
@@ -34,7 +38,7 @@ ul {
    margin-top: 5px;
 }
 
-li {
+ nav li {
     display: inline-block;
     padding: 15px 30px;
 }
@@ -102,4 +106,38 @@ a {
     font-size: 1.2vw;
 }
 
+.second-div, ul {
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: 300;
+    font-style: bold;
+}
 
+.second div, h2 {
+    font-family: 'Oswald',Arial, Helvetica, sans-serif;
+    color: red;
+    position: center;
+
+}
+
+
+.float-right {
+    float: right;
+}
+
+.two-third-column {
+    width: 66.66%;
+    display: inline-block;
+}
+
+img {
+    border-radius: 10px;
+    width: 96%;
+    margin: 2%;
+}
+
+.left-float {
+    float: left;
+    padding: 50px;
+    margin-top: 400px;
+}
