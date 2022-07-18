@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
 * {
     margin: 0;
@@ -52,7 +53,7 @@ a:hover {
 }
 
 .img-outer {
-    background-image: url('../css/images/pexels-pavel-danilyuk-6295831.jpg');
+    background-image: url('');
     height: 70%;
     background-position: center;
     background-repeat: no-repeat;
@@ -69,12 +70,12 @@ a:hover {
     margin-top: 200px;
 }
 
- div h1 {
+ h1 div {
     margin-top: -17px;
 }
 
 p {
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: 'Oswald', Arial, Helvetica, sans-serif;
     font-size: 1.7em;
     text-align: center;
     font-weight: 300;
