@@ -13,6 +13,10 @@ header {
     
 }
 
+body {
+    color: black;
+}
+
 
 h1 {
     position: absolute;
@@ -26,7 +30,7 @@ h1 {
 }
 
 .img-outer {
-    background-image: linear-gradient(rgba(0, 0, 0,1),rgb(255, 0, 0,0)), url('../css/images/pexels-gustavo-fring-6720433.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0,1),rgba(255, 255, 255, 0.25)), url('../css/images/pexels-gustavo-fring-6720433.jpg');
     height: 70vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -61,10 +65,11 @@ ul {
 
 a {
     text-align: center;
-    color: white;
+    color: rgb(255, 255, 255);
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1.2vw;
+    font-family: 'Oswald',Arial, Helvetica, sans-serif;
 }
 
 a:hover {
@@ -88,7 +93,14 @@ h3 {
 
 }
 
-a {
+p {
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    text-align: center;
+    color: white;
+}
+
+ div a {
     margin-top: 20px;
     font-size: 1.3em;
     font-family: 'Oswald', Arial, Helvetica, sans-serif;
@@ -108,18 +120,29 @@ a {
     font-size: 1.2vw;
 }
 
-.second-div, ul {
+nav ul {
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: 300;
+    
+    
+}
+
+.second-div ul {
     font-family: 'Lato', Arial, Helvetica, sans-serif;
     color: black;
     font-weight: 300;
     font-style: bold;
+    font-size: 1.7rem;
 }
+
+
 
 .second div, h2 {
     font-family: 'Oswald',Arial, Helvetica, sans-serif;
     color: red;
     position: center;
-
+    font-size: 3em
 }
 
 
@@ -130,16 +153,25 @@ a {
 .two-third-column {
     width: 66.66%;
     display: inline-block;
+    border-radius: 10px;
+    margin: 2%;
+    height: 100vh;
+    background-image: url('../css/images/istockphoto-460278039-612x612.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
 }
 
-img {
-    border-radius: 10px;
-    width: 96%;
-    margin: 2%;
+.second-image {
+    float: right;
+    margin-top: 20px ;
+    position: relative;
 }
+
 
 .left-float {
     float: left;
     padding: 50px;
-    margin-top: 400px;
+    margin-top: 1px;
 }
+
