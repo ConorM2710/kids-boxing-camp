@@ -6,17 +6,13 @@
     padding: 0;
 }
 
+/* header styling starts*/
 header {
     width: 100%;
     height: 70px;
     background-color: black;
     
 }
-
-body {
-    color: black;
-}
-
 
 h1 {
     position: absolute;
@@ -29,6 +25,39 @@ h1 {
 
 }
 
+nav ul {
+    width: auto; 
+    float: right;
+    margin-top: 5px;
+ }
+ 
+  nav li {
+     display: inline-block;
+     padding: 15px 30px;
+ }
+ 
+ a {
+     text-align: center;
+     color: rgb(255, 255, 255);
+     text-decoration: none;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 1.2vw;
+     font-family: 'Oswald',Arial, Helvetica, sans-serif;
+ }
+ 
+ a:hover {
+     color: red;
+     transition: 0.5s;
+ }
+
+ 
+span {
+    color: white;
+}
+/* header styling ends */
+
+
+/* hero image section starts */
 .img-outer {
     background-image: linear-gradient(rgba(0, 0, 0,1),rgba(255, 255, 255, 0.25)), url('../css/images/pexels-gustavo-fring-6720433.jpg');
     height: 70vh;
@@ -36,10 +65,6 @@ h1 {
     background-repeat: no-repeat;
     background-size: 100%;
     position: relative;
-}
-
-span {
-    color: white;
 }
 
 .img-text {
@@ -51,36 +76,6 @@ span {
     margin-top: 200px;
 }
 
-
-ul {
-   width: auto; 
-   float: right;
-   margin-top: 5px;
-}
-
- nav li {
-    display: inline-block;
-    padding: 15px 30px;
-}
-
-a {
-    text-align: center;
-    color: rgb(255, 255, 255);
-    text-decoration: none;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 1.2vw;
-    font-family: 'Oswald',Arial, Helvetica, sans-serif;
-}
-
-a:hover {
-    color: red;
-    transition: 0.5s;
-}
-
-
- h1 div {
-    margin-top: -17px;
-}
 
 h3 {
     font-family: 'Oswald', Arial, Helvetica, sans-serif;
@@ -119,18 +114,13 @@ p {
     border-radius: 25px;
     font-size: 1.2vw;
 }
+/* hero image section ends */
 
-nav ul {
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
-    color: black;
-    font-weight: 300;
-    
-    
-}
 
+/* what your kid will learn section starts */
 .second-div ul {
     font-family: 'Lato', Arial, Helvetica, sans-serif;
-    color: black;
+    color: white;
     font-weight: 300;
     font-style: bold;
     font-size: 1.7rem;
@@ -142,30 +132,33 @@ nav ul {
     font-family: 'Oswald',Arial, Helvetica, sans-serif;
     color: red;
     position: center;
-    font-size: 3em
+    font-size: 3em;   
 }
 
-
-.float-right {
-    float: right;
+.learn-box, ul {
+    padding: 20px 20px 20px 40px;
+    border-radius: 15px;
+    width: 400;
+    margin: 2%;
+    background-color: black;
+    position: relative;
+    margin-top: -10px;
 }
 
 .two-third-column {
-    width: 66.66%;
+    width: 46.66%;
     display: inline-block;
-    border-radius: 10px;
-    margin: 2%;
-    height: 100vh;
-    background-image: url('../css/images/istockphoto-460278039-612x612.jpg');
-    background-position: center;
-    background-repeat: no-repeat;
-    position: relative;
 }
 
 .second-image {
     float: right;
-    margin-top: 20px ;
+    margin-top: 40px ;
     position: relative;
+}
+
+.box-gym {
+    border-radius: 15px;
+    height: 390px;
 }
 
 
@@ -174,4 +167,61 @@ nav ul {
     padding: 50px;
     margin-top: 1px;
 }
+/* what your kid will learn section ends */
+
+/* get in touch section starts */
+
+h5 {
+   font-size: 2.7rem;
+   color: red;
+}
+
+#contact-us {
+    margin-top: 550px;
+    text-align: center;
+}
+
+.c-box-left {
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    color: black;
+    width: 400px;
+    float: left;
+    margin: 200px;
+}
+
+.c-box-left > p {
+    color: black;
+}
+
+.c-box-right {
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    color: black;
+    width: 400px;
+    float: right;
+    margin: 200px;
+}
+
+.bold {
+    text-align: center;
+    color: black;
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: red;
+}
+
+.c-box-middle {
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    color: black;
+    width: 400px;
+    text-align: center;
+    height: 400px;
+    
+    
+}
+
+
+
 
