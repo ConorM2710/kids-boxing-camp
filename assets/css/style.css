@@ -236,5 +236,39 @@ table {
     margin-top: -10px;
 }
 
+/* get in touch section ends*/
+
+/* map section starts */
+
+#map-container {
+    height: 400px;
+    margin-bottom: 100px;
+}
+
+#map {
+    height: 100%;
+    width: 100%;
+    border: none;
+}
+
+/* footer section starts */
+
+footer {
+    background-color: black;
+    padding: 3em;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    
+}
+
+footer {
+    display: block;
+}
+
+
+
 
 
