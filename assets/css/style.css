@@ -4,6 +4,7 @@
 * {
     margin: 0;
     padding: 0;
+    border: none;
 }
 
 /* header styling starts*/
@@ -181,13 +182,25 @@ h5 {
     text-align: center;
 }
 
+section {
+   display: block;
+}
+
+.touch-box-wrap {
+    width: 66%;
+    margin: 0 auto;
+}
+
+div {
+    display: block;
+}
+
 .c-box-left {
     font-family: 'Lato', Arial, Helvetica, sans-serif;
     color: black;
-    width: 400px;
-    float: left;
-    margin: 200px;
-    margin-top: 40px;
+   width: 250px;
+   margin-top: 2px;
+   float: left;
 }
 
 .c-box-left > p {
@@ -197,10 +210,10 @@ h5 {
 .c-box-right {
     font-family: 'Lato', Arial, Helvetica, sans-serif;
     color: black;
-    width: 400px;
+    width: 300px;
+    text-align: right;
+    margin-top: 2px;
     float: right;
-    margin: 200px;
-    margin-top: 40px;
 }
 
 .bold {
@@ -223,9 +236,10 @@ table {
 .c-box-middle {
     font-family: 'Lato', Arial, Helvetica, sans-serif;
     color: black;
-    width: -400px;
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
     text-align: center;
-    margin-bottom: 400px;
 }
 
 .touch-box {
@@ -238,34 +252,36 @@ table {
 
 /* get in touch section ends*/
 
-/* map section starts */
-
-#map-container {
-    height: 400px;
-    margin-bottom: 100px;
-}
-
-#map {
-    height: 100%;
-    width: 100%;
-    border: none;
-}
 
 /* footer section starts */
 
 footer {
     background-color: black;
-    padding: 3em;
-    text-align: center;
     width: 100%;
-    position: fixed;
     bottom: 0;
-    right: 0;
-    
+    z-index: 3;  
 }
 
 footer {
     display: block;
+}
+
+#social-box {
+    text-align: center;
+}
+
+#social-box > li {
+    display: inline;
+}
+
+#social-box a {
+    font-size: 150%;
+    margin: 1%;
+    padding: 5%;
+}
+
+#social-box > ul {
+    list-style-type: disc;
 }
 
 
