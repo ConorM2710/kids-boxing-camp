@@ -136,7 +136,7 @@ p {
     font-size: 3em;   
 }
 
-.learn-box, ul {
+.left-float, .second-div  ul {
     padding: 20px 20px 20px 40px;
     border-radius: 15px;
     width: 400;
@@ -233,10 +233,19 @@ table {
     border-spacing: 2px;
 }
 
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 2px;
+    border-color: red;
+}
+
 .c-box-middle {
     font-family: 'Lato', Arial, Helvetica, sans-serif;
     color: black;
-    width: 250px;
+    width: 400px;
     height: 250px;
     margin: 0 auto;
     text-align: center;
@@ -260,6 +269,7 @@ footer {
     width: 100%;
     bottom: 0;
     z-index: 3;  
+    position: fixed;
 }
 
 footer {
@@ -282,6 +292,21 @@ footer {
 
 #social-box > ul {
     list-style-type: disc;
+}
+
+/* footer section ends */
+
+/* gallery section starts */
+
+#gallery-images {
+    clear: both;
+    line-height: 0;
+    column-count: 1;
+    column-gap: 0px;
+}
+
+#gallery-images > img {
+    width: 100%;
 }
 
 
