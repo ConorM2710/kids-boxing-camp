@@ -3,8 +3,7 @@
 
 * {
     margin: 0;
-    padding: 0;
-    border: none;
+   
 }
 
 /* header styling starts*/
@@ -42,7 +41,7 @@ nav ul {
      color: rgb(255, 255, 255);
      text-decoration: none;
      font-family: Arial, Helvetica, sans-serif;
-     font-size: 1.2vw;
+     font-size: 25px;
      font-family: 'Oswald',Arial, Helvetica, sans-serif;
  }
  
@@ -113,7 +112,7 @@ p {
     outline: none;
     text-decoration: none;
     border-radius: 25px;
-    font-size: 1.2vw;
+    font-size: 25px;
 }
 /* hero image section ends */
 
@@ -308,6 +307,39 @@ footer {
 #gallery-images > img {
     width: 100%;
 }
+
+/* end of gallery section */
+
+/*start of form section */
+
+form, h1 {
+    margin-top: 20px;
+    text-align: center;
+    position: relative;
+   
+}
+
+form {
+    padding: 10px;
+    margin: 25px auto;
+    background-color:white;
+    font-family: 'Oswald', Arial, Helvetica, sans-serif;
+    border: none;
+}
+
+form {
+    display: block;
+    text-align: center;
+}
+
+form {
+    background-image: url('../css/images/pexels-pavel-danilyuk-6295831\ \(1\).jpg');
+    height: 100vh;
+    background-repeat: no-repeat;
+    
+}
+
+
 
 
 
