@@ -7,6 +7,8 @@
 }
 
 /* header styling starts*/
+
+/* the nav bar section originates from a tutorial on youtube from the channel "Code Instinct" here is a link to the tutorial https://www.youtube.com/watch?v=Y6DwspK_wnM */
 header {
     width: 100%;
     height: 70px;
@@ -171,6 +173,7 @@ p {
 
 /* get in touch section starts */
 
+/* the get in touch section is heavily influenced by the "coders coffeehouse" */
 h5 {
    font-size: 2.7rem;
    color: red;
@@ -263,6 +266,8 @@ table {
 
 /* footer section starts */
 
+/* I rewatched the "Love Running" footer tutorial video to aid me in setting up my footer section */
+
 footer {
     background-color: black;
     width: 100%;
@@ -312,7 +317,7 @@ footer {
 
 /*start of form section */
 
-
+/* some of the form section originates from a youtube tutorial, you will notice that I used the tutorial to get the form started and then proceeded to complete the form with my own code, here is a link to the tutorial https://www.youtube.com/watch?v=n6sv__UBwIA  */
 
 form {
     padding: 10px;
