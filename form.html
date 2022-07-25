@@ -22,18 +22,18 @@
 
     <form method="post" action="https://formdump.codeinstitute.net" id="form-image">
         <fieldset>
-            <h1>Please fill out the form below</h1>
+            <legend> Please fill out the form below</legend>
 
-            <div class="float-left">
-                <label for="name-field" class="block-label">Name</label>
+            <div>
+                <label for="name-field">Name</label>
                 <input id="name-field" type="text" name="full_name" placeholder="Your name" required>
             </div>
-            <div class="float-left">
-                <label for="email-field" class="block-label">Email</label>
+            <div>
+                <label for="email-field">Email</label>
                 <input id="email-field" type="email" name="email" placeholder="Your email" required>
             </div>
     
-            <label for="age" class="block-label">Age</label>
+            <label for="age">Age</label>
             <select id="age" name="age" required>
                 <option value="under-20">Under 8 </option>
                 <option value="9">9</option>
@@ -44,7 +44,7 @@
             </select>
 
         </fieldset>
-        <input type="submit" class="form-label" value="Sign Up">
+        <input type="submit" class="button" id="second-button" value="Sign Up">
     </form>
 
 

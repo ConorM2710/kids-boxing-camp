@@ -312,32 +312,45 @@ footer {
 
 /*start of form section */
 
-form, h1 {
-    margin-top: 20px;
-    text-align: center;
-    position: relative;
-   
-}
+
 
 form {
     padding: 10px;
-    margin: 25px auto;
-    background-color:white;
+    margin: 0 auto;
+    color: red;
     font-family: 'Oswald', Arial, Helvetica, sans-serif;
     border: none;
+    font-size: 25px;
+    text-align: center;    
 }
 
-form {
-    display: block;
-    text-align: center;
-}
 
 form {
-    background-image: url('../css/images/pexels-pavel-danilyuk-6295831\ \(1\).jpg');
+    background-image:  linear-gradient(rgba(0, 0, 0,1),rgba(255, 255, 255, 0.25)), url('../css/images/pexels-pavel-danilyuk-6295831\ \(1\).jpg');
     height: 100vh;
     background-repeat: no-repeat;
+    background-size: cover;
+    flex-direction: column;
     
 }
+
+#second-button:hover {
+    color: red;
+    transition: 0.5s;
+}
+
+fieldset {
+    border: none;
+    text-align: center;
+    
+}
+
+input, label, select {
+    display: block;
+    width: 400px;
+    height: 40px;
+}
+
 
 
 
