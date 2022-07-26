@@ -124,7 +124,6 @@ p {
     font-family: 'Lato', Arial, Helvetica, sans-serif;
     color: white;
     font-weight: 300;
-    font-style: bold;
     font-size: 1.7rem;
 }
 
@@ -133,18 +132,17 @@ p {
 .second div, h2 {
     font-family: 'Oswald',Arial, Helvetica, sans-serif;
     color: red;
-    position: center;
-    font-size: 3em;   
+    font-size: 3em; 
+     
 }
 
 .left-float, .second-div  ul {
     padding: 20px 20px 20px 40px;
     border-radius: 15px;
-    width: 400;
     margin: 2%;
     background-color: black;
     position: relative;
-    margin-top: -10px;
+    margin-top: -5px;
 }
 
 .two-third-column {
@@ -169,6 +167,7 @@ p {
     padding: 50px;
     margin-top: 1px;
 }
+
 /* what your kid will learn section ends */
 
 /* get in touch section starts */
@@ -367,6 +366,65 @@ input, label, select {
 }
 
 /* end of form section */
+
+/* making the site adaptive to screensizes */
+
+@media screen and (max-width: 800px) {
+    nav ul {
+        width: auto; 
+        float: right;
+        margin-top: 5px;
+     }
+
+     .second-image {
+        float: left ;
+        margin-top: 40px ;
+        position: relative;
+        width: 200px;
+    }
+
+     .touch-box-wrap {
+     width: 33%;
+     margin: 0 auto;
+    }
+
+    .c-box-middle {
+        font-family: 'Lato', Arial, Helvetica, sans-serif;
+        color: black;
+        width: 200px;
+        height: 250px;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .img-outer {
+        background-image: linear-gradient(rgba(0, 0, 0,1),rgba(255, 255, 255, 0.25)), url('../css/images/pexels-gustavo-fring-6720433.jpg');
+        height: 70vh;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+
+    fieldset {
+        border: none;
+        position: relative;
+        margin-left: 15%;
+        margin-top: 150px;
+        
+    }
+
+    div a {
+        margin-top: 60px;
+        font-size: 1.3em;
+        font-family: 'Oswald', Arial, Helvetica, sans-serif;
+    }
+
+    
+
+    
+}
+
+
 
 
 
