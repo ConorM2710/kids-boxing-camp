@@ -16,5 +16,16 @@ enrol they're children into the summer camp.
   revert back to they're desired page.
 - The navigation bar also holds the logo in the top left of the screen across all pages to once again establish consistency and 
   familiarity.
-![image of nav bar](../kids-boxing-camp/assets/css/images/KKBC-nav-bar.PNG)
 
+
+### Landing Page
+- The Kool Kids Boxing Club landing page is designed to be memorable and exciting.
+- The background image of a trainer and one of the camp students was too bright and did not contrast well with the brand so I added a linear gradient to mute the image slightly.
+- The hero image also re-establishes what this camp is about by showcasing a kid and his boxing trainer.
+- The landing page also utilises a sign up button so that the user can get straight to enrolling they're child if they do not wish to
+  explore the rest of the site.
+
+### What your kid will learn
+- This section allows the parents or guradians see what their kid will learn over the course of the four week camp.
+- The user will wish to enrol their child once they see the benefits of the camp.
+- This section also provides an image of a boxing gym to showcase some of the facilities.
