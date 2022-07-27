@@ -36,3 +36,18 @@ enrol they're children into the summer camp.
 ### Footer
 - The footer is minimalistic and similarly to the navigation bar is spread across all three pages 
 - The footer displays the social icons for the clubs social pages, all which are clickable links that open in a new tab.
+
+### Gallery
+- The Gallery section provides the users with images to showcase some moments captured during last years camp.
+- This section allows the parents or guardians to verify that the facilities and care are to a high standard.
+
+### Sign Up Page
+- The Sign Up page allows the parents or guardians to enroll the child into the summer camp through the simple form.
+- The form asks for the age of the kid so that they can be sorted into appropriate age groups on the first day of the camp.
+
+### Features left to implement
+- With more time I would add a slideshow gallery effect as I believe it would allow for more interaction on the site while simultaneously
+  condensing the images into a more digestible format.
+
+## Testing
+
