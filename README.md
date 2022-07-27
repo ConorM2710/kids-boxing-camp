@@ -29,3 +29,10 @@ enrol they're children into the summer camp.
 - This section allows the parents or guradians see what their kid will learn over the course of the four week camp.
 - The user will wish to enrol their child once they see the benefits of the camp.
 - This section also provides an image of a boxing gym to showcase some of the facilities.
+
+### Get in touch
+- The "get in touch" section displays some important contact information, times and the address of the camp.
+
+### Footer
+- The footer is minimalistic and similarly to the navigation bar is spread across all three pages 
+- The footer displays the social icons for the clubs social pages, all which are clickable links that open in a new tab.
