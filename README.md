@@ -7,6 +7,9 @@ The users of this site will be able to find out the important and necessary info
 they're child will be safe, learning new skills and making friends. The target audience of this site is for parents who wish to 
 enrol they're children into the summer camp.
 
+![KKBC-responsive-sc](https://user-images.githubusercontent.com/108482390/181605929-f75de53c-2778-45dd-9bf4-2e766db2deeb.PNG)
+
+
 ## Features
 
 ### Navigation Bar
@@ -85,6 +88,7 @@ enrol they're children into the summer camp.
 - The accessibility scoring on my project as shown in the screenshot below
 
 ![KKBC-lighthouse-test](https://user-images.githubusercontent.com/108482390/181604254-1215b14a-af4d-418b-94bf-bfa06e2948b2.PNG)
+
 
 
 
