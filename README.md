@@ -27,21 +27,31 @@ enrol they're children into the summer camp.
 - The landing page also utilises a sign up button so that the user can get straight to enrolling they're child if they do not wish to
   explore the rest of the site.
 
+  ![KKBC-landing-page](https://user-images.githubusercontent.com/108482390/181599115-83486ec9-1812-4d12-a06e-968cf090cbc2.PNG)
+
 ### What your kid will learn
 - This section allows the parents or guradians see what their kid will learn over the course of the four week camp.
 - The user will wish to enrol their child once they see the benefits of the camp.
 - This section also provides an image of a boxing gym to showcase some of the facilities.
 
+![KKBC-learn](https://user-images.githubusercontent.com/108482390/181599128-a0838e7a-0f27-4414-886b-4e7fe1be980b.PNG)
+
 ### Get in touch
 - The "get in touch" section displays some important contact information, times and the address of the camp.
+
+![KKBC-contact](https://user-images.githubusercontent.com/108482390/181599147-4b5348c9-b502-4112-bce5-c90436d37613.PNG)
 
 ### Footer
 - The footer is minimalistic and similarly to the navigation bar is spread across all three pages 
 - The footer displays the social icons for the clubs social pages, all which are clickable links that open in a new tab.
 
+![KKBC-footer](https://user-images.githubusercontent.com/108482390/181599151-9253da6f-62c7-4f63-a791-33927a22f307.PNG)
+
 ### Gallery
 - The Gallery section provides the users with images to showcase some moments captured during last years camp.
 - This section allows the parents or guardians to verify that the facilities and care are to a high standard.
+
+![KKBC-gallery](https://user-images.githubusercontent.com/108482390/181599163-ef7728ac-ba29-4d6e-a4a5-4bbc6363a088.PNG)
 
 ### Sign Up Page
 - The Sign Up page allows the parents or guardians to enroll the child into the summer camp through the simple form.
