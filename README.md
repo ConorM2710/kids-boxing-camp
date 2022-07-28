@@ -57,6 +57,8 @@ enrol they're children into the summer camp.
 - The Sign Up page allows the parents or guardians to enroll the child into the summer camp through the simple form.
 - The form asks for the age of the kid so that they can be sorted into appropriate age groups on the first day of the camp.
 
+![KKBC-sign-up](https://user-images.githubusercontent.com/108482390/181599812-92a03dfc-7788-41f5-a6c3-660be0548a2f.PNG)
+
 ### Features left to implement
 - With more time I would add a slideshow gallery effect as I believe it would allow for more interaction on the site while simultaneously
   condensing the images into a more digestible format.
