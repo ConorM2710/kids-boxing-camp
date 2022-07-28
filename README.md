@@ -64,4 +64,25 @@ enrol they're children into the summer camp.
   condensing the images into a more digestible format.
 
 ## Testing
+- I tested that this site works in different browsers.
+- I have tested to ensure that the page is responsive for devices with different viewports, the elements of my site will collapse and change
+  to allow for the decrease in screensize.
+- I can confirm that the navigation, home, gallery and sign up page are all readable and also that my images contain alt text to allow for greater
+  accessibility.
+- The sign up page form also works as intended with the form notifying you if you have not filled in an area correctly.
+
+### Validator Testing
+- The HTML validator test came back with no errors as shown in the screenshot below
+
+![KKBC-html-validator](https://user-images.githubusercontent.com/108482390/181603224-7390ccfc-85e6-44ee-907a-52c3e6643e75.PNG)
+
+- The CSS validator came back with no errors as shown in the sscreenshot below
+
+![KKBC-css-validator](https://user-images.githubusercontent.com/108482390/181603364-9e3e4a12-0597-411f-a532-033af80784ae.PNG)
+
+- The accessibility scoring on my project as shown in the screenshot below
+
+![KKBC-lighthouse-test](https://user-images.githubusercontent.com/108482390/181604254-1215b14a-af4d-418b-94bf-bfa06e2948b2.PNG)
+
+
 
