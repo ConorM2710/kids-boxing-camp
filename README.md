@@ -16,7 +16,8 @@ enrol they're children into the summer camp.
   revert back to they're desired page.
 - The navigation bar also holds the logo in the top left of the screen across all pages to once again establish consistency and 
   familiarity.
-  ![](images%2FKKBC-nav-bar.PNG)
+
+  ![nav bar](images%2FKKBC-nav-bar.PNG)
 
 
 ### Landing Page
