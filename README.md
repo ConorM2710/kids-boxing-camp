@@ -70,6 +70,8 @@ enrol they're children into the summer camp.
 - I can confirm that the navigation, home, gallery and sign up page are all readable and also that my images contain alt text to allow for greater
   accessibility.
 - The sign up page form also works as intended with the form notifying you if you have not filled in an area correctly.
+- During the lighthouse testing which I conducted at the end of my project completeion I realised that the large image file sizes from pexels were slowing
+  down my site greatly thus giving it a low performance score, for future projects I will ensure that the file sizes are reduced.
 
 ### Validator Testing
 - The HTML validator test came back with no errors as shown in the screenshot below
