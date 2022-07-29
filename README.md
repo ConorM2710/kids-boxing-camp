@@ -1,7 +1,7 @@
 # Kool Kids Boxing Club
 
 The Kool Kids website is a place to find out key information on what the summer camp entails and also provides a form so that 
-the parents or guardians can enrol theyr'e children into the camp.
+the parents or guardians can enrol they're children into the camp.
 
 The users of this site will be able to find out the important and necessary information so that they can have peace of mind that
 they're child will be safe, learning new skills and making friends. The target audience of this site is for parents who wish to 
@@ -85,9 +85,6 @@ enrol they're children into the summer camp.
 
 ![KKBC-css-validator](https://user-images.githubusercontent.com/108482390/181603364-9e3e4a12-0597-411f-a532-033af80784ae.PNG)
 
-- The accessibility scoring on my project as shown in the screenshot below
-
-![KKBC-lighthouse-score](https://user-images.githubusercontent.com/108482390/181810663-8d5f6aa7-873e-4276-8bc6-8778182d45e9.PNG)
 
 ## Deployment
 - I deployed the site to Github pages, the steps are as follows
@@ -104,11 +101,11 @@ Here is the live link to [Kool Kids Boxing Camp live site](https://conorm2710.gi
 - The navigation bar is heavily influenced by a tutorial from the youtube channel "Code Instinct" here is a link to the tutorial [Tutorial video link](https://www.youtube.com/watch?v=Y6DwspK_wnM).
 - For the "get in touch" section I went back to the Coders Coffeehouse tutorials as the Coders Coffeehouse "contact" section was the perfect layout for my project".
 - The footer section resembles the "Love Running" projects footer as I liked the minimalistic design.
-- The form is a mix of rewatching the Coder Coffeehouse tutorial and a youtube tutorial, I used the tutorials to start off on the right foot and then proceeded to write my own code to finish it, here is a link the the youtube tutorial [form tutorial](https://www.youtube.com/watch?v=n6sv__UBwIA).
+- The form is a mix of rewatching the Coder Coffeehouse tutorial and a youtube tutorial, I used the tutorials to start off on the right foot and then proceeded to write my own code to finish it, here is a link to the youtube tutorial [form tutorial](https://www.youtube.com/watch?v=n6sv__UBwIA).
 
 ### Media 
-- The footer icons are from [](https://fontawesome.com/)
-- The images used on my site are from [](https://www.pexels.com/)
+- The footer icons are from [fontawesome](https://fontawesome.com/)
+- The images used on my site are from [pexels](https://www.pexels.com/)
 
 
 
