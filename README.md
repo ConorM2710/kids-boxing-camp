@@ -96,7 +96,19 @@ enrol they're children into the summer camp.
 - Once in the pages section I clicked on the dropdown and chose "master branch"
 - After a few minutes I refreshed my page and it said that the site was successfully deployed
 
-Here is the live link [Kool Kids Boxing Camp live site](https://conorm2710.github.io/kids-boxing-camp/)
+Here is the live link to [Kool Kids Boxing Camp live site](https://conorm2710.github.io/kids-boxing-camp/)
+
+## Credits
+
+### Content
+- The navigation bar is heavily influenced by a tutorial from the youtube channel "Code Instinct" here is a link to the tutorial [Tutorial video link](https://www.youtube.com/watch?v=Y6DwspK_wnM).
+- For the "get in touch" section I went back to the Coders Coffeehouse tutorials as the Coders Coffeehouse "contact" section was the perfect layout for my project".
+- The footer section resembles the "Love Running" projects footer as I liked the minimalistic design.
+- The form is a mix of rewatching the Coder Coffeehouse tutorial and a youtube tutorial, I used the tutorials to start off on the right foot and then proceeded to write my own code to finish it, here is a link the the youtube tutorial [form tutorial](https://www.youtube.com/watch?v=n6sv__UBwIA).
+
+### Media 
+- The footer icons are from [](https://fontawesome.com/)
+- The images used on my site are from [](https://www.pexels.com/)
 
 
 
