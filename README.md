@@ -74,7 +74,7 @@ enrol they're children into the summer camp.
   accessibility.
 - The sign up page form also works as intended with the form notifying you if you have not filled in an area correctly.
 - During the lighthouse testing which I conducted at the end of my project completeion I realised that the large image file sizes from pexels were slowing
-  down my site greatly thus giving it a low performance score, for future projects I will ensure that the file sizes are reduced.
+  down my site greatly thus giving it a low performance score, I used sopify's free image resizer which greatly helped with my site speed and performance score.
 
 ### Validator Testing
 - The HTML validator test came back with no errors as shown in the screenshot below
@@ -87,7 +87,8 @@ enrol they're children into the summer camp.
 
 - The accessibility scoring on my project as shown in the screenshot below
 
-![KKBC-lighthouse-test](https://user-images.githubusercontent.com/108482390/181604254-1215b14a-af4d-418b-94bf-bfa06e2948b2.PNG)
+![KKBC-lighthouse-score]https://user-images.githubusercontent.com/108482390/181810663-8d5f6aa7-873e-4276-8bc6-8778182d45e9.PNG
+
 
 
 
