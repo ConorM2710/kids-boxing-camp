@@ -87,9 +87,16 @@ enrol they're children into the summer camp.
 
 - The accessibility scoring on my project as shown in the screenshot below
 
-![KKBC-lighthouse-score]https://user-images.githubusercontent.com/108482390/181810663-8d5f6aa7-873e-4276-8bc6-8778182d45e9.PNG
+![KKBC-lighthouse-score](https://user-images.githubusercontent.com/108482390/181810663-8d5f6aa7-873e-4276-8bc6-8778182d45e9.PNG)
 
+## Deployment
+- I deployed the site to Github pages, the steps are as follows
+- In the Github repository I went to the settings tab
+- I then proceeded to find the "pages" section
+- Once in the pages section I clicked on the dropdown and chose "master branch"
+- After a few minutes I refreshed my page and it said that the site was successfully deployed
 
+Here is the live link [Kool Kids Boxing Camp live site](https://conorm2710.github.io/kids-boxing-camp/)
 
 
 
