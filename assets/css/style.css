@@ -137,12 +137,10 @@ p {
 }
 
 .left-float, .second-div  ul {
-    padding: 20px 20px 20px 40px;
     border-radius: 15px;
     margin: 2%;
     background-color: black;
     position: relative;
-    margin-top: -5px;
 }
 
 .two-third-column {
@@ -164,8 +162,7 @@ p {
 
 .left-float {
     float: left;
-    padding: 50px;
-    margin-top: 1px;
+    padding: 10px;
 }
 
 /* what your kid will learn section ends */
@@ -424,6 +421,25 @@ input, label, select {
     
 }
 
+@media screen and (max-width: 1000px) {
+    
+    .second-image {
+        float: left ;
+        margin-top: 80px ;
+        position: relative;
+        width: 200px;
+    }
+
+    .c-box-middle {
+        font-family: 'Lato', Arial, Helvetica, sans-serif;
+        color: black;
+        width: 400px;
+        height: 250px;
+        margin-bottom: -10px;
+        text-align: center;
+    }
+
+}
 
 
 
