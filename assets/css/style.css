@@ -161,7 +161,6 @@ p {
 
 
 .left-float {
-    float: left;
     padding: 10px;
 }
 
@@ -176,7 +175,6 @@ h5 {
 }
 
 #contact-us {
-    margin-top: 500px;
     text-align: center;
 }
 
@@ -421,7 +419,7 @@ input, label, select {
     
 }
 
-@media screen and (max-width: 1000px) {
+/*@media screen and (max-width: 1700px) {
     
     .second-image {
         float: left ;
