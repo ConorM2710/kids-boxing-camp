@@ -37,7 +37,7 @@ enrol they're children into the summer camp.
 - The user will wish to enrol their child once they see the benefits of the camp.
 - This section also provides an image of a boxing gym to showcase some of the facilities.
 
-![KKBC-learn](https://user-images.githubusercontent.com/108482390/181599128-a0838e7a-0f27-4414-886b-4e7fe1be980b.PNG)
+![KKBC-learn-section](https://user-images.githubusercontent.com/108482390/182046368-a8c6eeae-ac26-4ca5-a0f4-80570f89c3d4.PNG)
 
 ### Get in touch
 - The "get in touch" section displays some important contact information, times and the address of the camp.
