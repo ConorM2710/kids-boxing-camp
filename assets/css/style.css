@@ -136,7 +136,7 @@ p {
      
 }
 
-.left-float, .second-div  ul {
+.left-float, .second-div  {
     border-radius: 15px;
     margin: 2%;
     background-color: black;
@@ -241,8 +241,7 @@ table {
 .c-box-middle {
     font-family: 'Lato', Arial, Helvetica, sans-serif;
     color: black;
-    width: 400px;
-    height: 250px;
+    
     margin: 0 auto;
     text-align: center;
 }
@@ -253,6 +252,10 @@ table {
     background-color: black;
     position: relative;
     margin-top: -10px;
+}
+
+.timetable > p {
+    color: black;
 }
 
 /* get in touch section ends*/
@@ -336,7 +339,6 @@ form {
 fieldset {
     border: none;
     position: relative;
-    margin-left: 37%;
     margin-top: 150px;
     
 }
@@ -364,80 +366,125 @@ input, label, select {
 
 /* making the site adaptive to screensizes */
 
-@media screen and (max-width: 800px) {
+/* iphone Xr screensize */
+
+
+@media screen and (min-width: 400px) and (max-width: 600px) {
+   
     nav ul {
         width: auto; 
         float: right;
-        margin-top: 5px;
+        margin-top: 50px;
      }
-
-     .second-image {
-        float: left ;
-        margin-top: 40px ;
-        position: relative;
-        width: 200px;
+     
+     header {
+        width: 100%;
+        height: 100px;
+        background-color: black;
+        
     }
 
-     .touch-box-wrap {
-     width: 33%;
-     margin: 0 auto;
+    .img-text {
+        text-align: center;
+        position: absolute;
+        width: 100%;
+        color: rgb(0, 0, 0);
+        height: auto;
+        margin-top: 80px;
+        font-size: 10px;
+    }
+    
+    .left-float, .second-div  {
+        border-radius: 15px;
+        margin: 2%;
+        background-color: black;
+        position: relative;
+        font-size: 10px;
+        margin-top: -150px;
+    }
+    
+    .second div, h2, h5 {
+        font-family: 'Oswald',Arial, Helvetica, sans-serif;
+        color: red;
+        font-size: 20px; 
+         
+    }
+    
+    .second-div ul {
+        font-family: 'Lato', Arial, Helvetica, sans-serif;
+        color: white;
+        font-weight: 300;
+        font-size: 20px;
+    }
+
+    #contact-us, h2, h5 {
+        text-align: center;
+    }
+
+    .touch-box {
+        padding: 20px 20px 20px 20px;
+        background-color: black;
+        position: relative;
+        margin-top: 0px;
+    }
+    
+    .c-box-right {
+        font-family: 'Lato', Arial, Helvetica, sans-serif;
+        color: black;
+        width: 300px;
+        text-align: right;
+        margin-top: 20px;
+        float: right;
+    }
+
+    .touch-box-wrap {
+        width: 66%;
+        margin: 0 auto;
+        font-size: 10px;
+        height: 400px;
+    }
+
+    #social-box {
+        text-align: center;
+        padding: 10px;
     }
 
     .c-box-middle {
         font-family: 'Lato', Arial, Helvetica, sans-serif;
         color: black;
-        width: 200px;
-        height: 250px;
         margin: 0 auto;
         text-align: center;
     }
 
-    .img-outer {
-        background-image: linear-gradient(rgba(0, 0, 0,1),rgba(255, 255, 255, 0.25)), url('../css/images/pexels-gustavo-fring-6720433.jpg');
-        height: 70vh;
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: 100%;
+    input, label, select {
+        display: block;
+        width: 300px;
+        height: 40px;
     }
 
     fieldset {
         border: none;
         position: relative;
-        margin-left: 15%;
         margin-top: 150px;
         
     }
-
-    div a {
-        margin-top: 60px;
-        font-size: 1.3em;
-        font-family: 'Oswald', Arial, Helvetica, sans-serif;
-    }
-
     
-
-    
-}
-
-/*@media screen and (max-width: 1700px) {
-    
-    .second-image {
-        float: left ;
-        margin-top: 80px ;
-        position: relative;
-        width: 200px;
-    }
-
-    .c-box-middle {
+    .c-box-left {
         font-family: 'Lato', Arial, Helvetica, sans-serif;
         color: black;
-        width: 400px;
-        height: 250px;
-        margin-bottom: -10px;
-        text-align: center;
+       width: 250px;
+       margin-top: 20px;
+       float: left;
     }
 
+    .timetable > p {
+        color: black;
+        margin-top: 20px;
+    }
+
+    
 }
+
 
 
 
