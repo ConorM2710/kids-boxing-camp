@@ -20,8 +20,7 @@ enrol they're children into the summer camp.
 - The navigation bar also holds the logo in the top left of the screen across all pages to once again establish consistency and 
   familiarity.
 
-  ![nav-bar](/workspace/kids-boxing-camp/assets/images/nav-bar.png
-)
+  ![nav-bar](./assets/images/nav-bar.png)
 
 
 ### Landing Page
