@@ -20,7 +20,7 @@ enrol they're children into the summer camp.
 - The navigation bar also holds the logo in the top left of the screen across all pages to once again establish consistency and 
   familiarity.
 
-  ![KKBC-nav-bar](../kids-boxing-camp/assets/images/nav-bar.png)
+  ![nav-bar](nav-bar.png)
 
 
 ### Landing Page
@@ -30,37 +30,37 @@ enrol they're children into the summer camp.
 - The landing page also utilises a sign up button so that the user can get straight to enrolling they're child if they do not wish to
   explore the rest of the site.
 
-  ![KKBC-landing-page](../kids-boxing-camp/assets/images/landing-pag.png)
+  ![landing page](../kids-boxing-camp/assets/images/landing-pag.png)
 
 ### What your kid will learn
 - This section allows the parents or guradians see what their kid will learn over the course of the four week camp.
 - The user will wish to enrol their child once they see the benefits of the camp.
 - This section also provides an image of a boxing gym to showcase some of the facilities.
 
-![KKBC-learn-section](../kids-boxing-camp/assets/images/learning-box.png)
+![learning box](../kids-boxing-camp/assets/images/learning-box.png)
 
 ### Get in touch
 - The "get in touch" section displays some important contact information, times and the address of the camp.
 
-![KKBC-contact](../kids-boxing-camp/assets/images/get-in-touch.png)
+![get in touch](../kids-boxing-camp/assets/images/get-in-touch.png)
 
 ### Footer
 - The footer is minimalistic and similarly to the navigation bar is spread across all three pages 
 - The footer displays the social icons for the clubs social pages, all which are clickable links that open in a new tab.
 
-![KKBC-footer](../kids-boxing-camp/assets/images/footer.png)
+![footer](../kids-boxing-camp/assets/images/footer.png)
 
 ### Gallery
 - The Gallery section provides the users with images to showcase some moments captured during last years camp.
 - This section allows the parents or guardians to verify that the facilities and care are to a high standard.
 
-![KKBC-gallery](../kids-boxing-camp/assets/images/gallery-page.png)
+![gallery page](../kids-boxing-camp/assets/images/gallery-page.png)
 
 ### Sign Up Page
 - The Sign Up page allows the parents or guardians to enroll the child into the summer camp through the simple form.
 - The form asks for the age of the kid so that they can be sorted into appropriate age groups on the first day of the camp.
 
-![KKBC-sign-up](../kids-boxing-camp/assets/images/signup-page.png)
+![signup page](../kids-boxing-camp/assets/images/signup-page.png)
 
 ### Features left to implement
 - With more time I would add a slideshow gallery effect as I believe it would allow for more interaction on the site while simultaneously
