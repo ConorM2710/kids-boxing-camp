@@ -371,7 +371,7 @@ input, label, select {
 /* iphone Xr screensize */
 
 
-@media screen and (min-width: 414px) and (max-width: 600px) {
+@media screen and (min-width: 300px) and (max-width: 600px) {
    
     nav ul {
         width: auto; 
@@ -482,6 +482,11 @@ input, label, select {
     .timetable > p {
         color: black;
         margin-top: 20px;
+    }
+
+    nav li {
+        display: inline-block;
+        padding: 5px 5px 5px 20px;
     }
 
     
