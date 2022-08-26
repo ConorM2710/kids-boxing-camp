@@ -405,7 +405,7 @@ input, label, select {
         margin-top: -150px;
     }
     
-    .second div, h2, h5 {
+    .second div, h2, h3, h5 {
         font-family: 'Oswald',Arial, Helvetica, sans-serif;
         color: red;
         font-size: 20px; 
@@ -487,6 +487,11 @@ input, label, select {
     nav li {
         display: inline-block;
         padding: 5px 5px 5px 10px;
+    }
+
+    html, body {
+        overflow-x: hidden;
+        max-width: 100%;
     }
 
     
