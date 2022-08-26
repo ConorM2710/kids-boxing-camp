@@ -61,7 +61,7 @@ span {
 
 /* hero image section starts */
 .img-outer {
-    background-image: linear-gradient(rgba(0, 0, 0,1),rgba(255, 255, 255, 0.25)), url('../css/images/pexels-gustavo-fring-6720433.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0,1),rgba(255, 255, 255, 0.25)), url('../images/kidBoxing.jpg');
     height: 70vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -329,7 +329,7 @@ form {
 
 
 form {
-    background-image:  linear-gradient(rgba(0, 0, 0,1),rgba(255, 255, 255, 0.25)), url('../css/images/pexels-pavel-danilyuk-6295831\ \(1\).jpg');
+    background-image:  linear-gradient(rgba(0, 0, 0,1),rgba(255, 255, 255, 0.25)), url('../images/shadowBoxing.jpg');
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
