@@ -183,8 +183,10 @@ section {
 }
 
 .touch-box-wrap {
-    width: 66%;
     margin: 0 auto;
+    height: 300px;
+    margin-left: 50px;
+    margin-right: 200px;
 }
 
 div {
@@ -247,7 +249,7 @@ table {
 }
 
 .touch-box {
-    padding: 20px 20px 20px 40px;
+    padding: 20px 20px 20px 20px;
     width:100%;
     background-color: black;
     position: relative;
@@ -369,7 +371,7 @@ input, label, select {
 /* iphone Xr screensize */
 
 
-@media screen and (min-width: 400px) and (max-width: 600px) {
+@media screen and (min-width: 414px) and (max-width: 600px) {
    
     nav ul {
         width: auto; 
@@ -379,7 +381,7 @@ input, label, select {
      
      header {
         width: 100%;
-        height: 100px;
+        height: 120px;
         background-color: black;
         
     }
@@ -485,6 +487,111 @@ input, label, select {
     
 }
 
+/* for tablets and laptop screens */
+
+@media screen and (min-width: 432px) and (max-width: 1517px) {
+
+    h3 {
+        font-family: 'Oswald', Arial, Helvetica, sans-serif;
+        font-size: 3em;
+        text-align: center;
+        font-weight: 500;
+        margin-top: -50px;
+        font-style: oblique;
+        color: red;
+    
+    }
+
+    .second div, h2 {
+        font-family: 'Oswald',Arial, Helvetica, sans-serif;
+        color: red;
+        font-size: 2em; 
+         
+    }
+
+    .second-div ul {
+        font-family: 'Lato', Arial, Helvetica, sans-serif;
+        color: white;
+        font-weight: 300;
+        font-size: 1.5rem;
+    }
+
+    .touch-box {
+        padding: 20px 20px 20px 20px;
+        background-color: black;
+        position: relative;
+        margin-top: 0px;
+    }
+    
+    .c-box-right {
+        font-family: 'Lato', Arial, Helvetica, sans-serif;
+        color: black;
+        width: 300px;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .touch-box-wrap {
+        font-size: 10px;
+        height: 300px;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+    #social-box {
+        text-align: center;
+        padding: 10px;
+    }
+
+    .c-box-middle {
+        font-family: 'Lato', Arial, Helvetica, sans-serif;
+        color: black;
+        margin: 0 auto;
+        text-align: center;
+        width: 300px;
+    }
+
+    input, label, select {
+        display: block;
+        width: 300px;
+        height: 40px;
+    }
+
+    fieldset {
+        border: none;
+        position: relative;
+        margin-top: 150px;
+        
+    }
+    
+    .c-box-left {
+        font-family: 'Lato', Arial, Helvetica, sans-serif;
+        color: black;
+       width: 250px;
+       margin-top: 20px;
+       float: left;
+    }
+
+    .timetable > p {
+        color: black;
+        margin-top: 20px;
+    }
+
+    .second div, h2, h5 {
+        font-family: 'Oswald',Arial, Helvetica, sans-serif;
+        color: red;
+        font-size: 20px; 
+
+
+
+
+
+
+
+
+
+}
+}
 
 
 
