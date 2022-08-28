@@ -7,7 +7,7 @@ The users of this site will be able to find out the important and necessary info
 they're child will be safe, learning new skills and making friends. The target audience of this site is for parents who wish to 
 enrol they're children into the summer camp.
 
-![KKBC-responsive-sc](https://user-images.githubusercontent.com/108482390/181605929-f75de53c-2778-45dd-9bf4-2e766db2deeb.PNG)
+![display-of-responsive-design](./assets/images/responisve-display.png)
 
 
 ## Features
@@ -74,16 +74,23 @@ enrol they're children into the summer camp.
   accessibility.
 - The sign up page form also works as intended with the form notifying you if you have not filled in an area correctly.
 - During the lighthouse testing which I conducted at the end of my project completeion I realised that the large image file sizes from pexels were slowing
-  down my site greatly thus giving it a low performance score, I used sopify's free image resizer which greatly helped with my site speed and performance score.
+  down my site greatly thus giving it a low performance score, I used the recomended tinypng.com resizer which greatly helped with my site speed and performance score.
+- [x] When the user clicks on one of the two "Sign Up" buttons they will be brought to the third page which consists of the sign up form.
+- [x] The user can navigate easily throughout the site as the three pages will always be accessible via the navigation bar.
+- [x] The site now resizes accordingly tp the users device.
 
 ### Validator Testing
 - The HTML validator test came back with no errors as shown in the screenshot below
 
-![KKBC-html-validator](https://user-images.githubusercontent.com/108482390/181603224-7390ccfc-85e6-44ee-907a-52c3e6643e75.PNG)
+![html-validator](https://user-images.githubusercontent.com/108482390/181603224-7390ccfc-85e6-44ee-907a-52c3e6643e75.PNG)
 
 - The CSS validator came back with no errors as shown in the sscreenshot below
 
-![KKBC-css-validator](https://user-images.githubusercontent.com/108482390/181603364-9e3e4a12-0597-411f-a532-033af80784ae.PNG)
+![css-validator](./assets/images/validator-test.png)
+
+- The Lighthouse score results
+
+![lighthouse-score](./assets/images/lighthouse-score.png)
 
 
 ## Deployment
