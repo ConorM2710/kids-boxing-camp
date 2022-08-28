@@ -75,14 +75,17 @@ enrol they're children into the summer camp.
 - The sign up page form also works as intended with the form notifying you if you have not filled in an area correctly.
 - During the lighthouse testing which I conducted at the end of my project completeion I realised that the large image file sizes from pexels were slowing
   down my site greatly thus giving it a low performance score, I used the recomended tinypng.com resizer which greatly helped with my site speed and performance score.
+
+
 - [x] When the user clicks on one of the two "Sign Up" buttons they will be brought to the third page which consists of the sign up form.
 - [x] The user can navigate easily throughout the site as the three pages will always be accessible via the navigation bar.
-- [x] The site now resizes accordingly tp the users device.
+- [x] The site now resizes accordingly to the users device.
+
 
 ### Validator Testing
 - The HTML validator test came back with no errors as shown in the screenshot below
 
-![html-validator](https://user-images.githubusercontent.com/108482390/181603224-7390ccfc-85e6-44ee-907a-52c3e6643e75.PNG)
+![html-validator](./assets/images/html-validator.png)
 
 - The CSS validator came back with no errors as shown in the sscreenshot below
 
