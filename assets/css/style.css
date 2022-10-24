@@ -367,6 +367,7 @@ input, label, select {
     color: white;
     font-size: 35px;
     margin-left: 0%;
+    text-align: center;
 }
 
 /* end of form section */
