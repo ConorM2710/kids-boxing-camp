@@ -371,12 +371,12 @@ input, label, select {
 /* iphone Xr screensize */
 
 
-@media screen and (min-width: 300px) and (max-width: 600px) {
+@media screen and (min-width: 300px) and (max-width: 800px) {
    
     nav ul {
         width: auto; 
-        float: right;
         margin-top: 50px;
+        margin-right: 50px;
      }
      
      header {
