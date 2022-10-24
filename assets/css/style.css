@@ -342,6 +342,11 @@ fieldset {
     border: none;
     position: relative;
     margin-top: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     
 }
 
