@@ -433,7 +433,7 @@ input, label, select {
     .c-box-right {
         font-family: 'Lato', Arial, Helvetica, sans-serif;
         color: black;
-        width: 300px;
+        width: 250px;
         text-align: right;
         margin-top: 20px;
         float: right;
@@ -442,7 +442,7 @@ input, label, select {
     .touch-box-wrap {
         width: 66%;
         margin: 0 auto;
-        font-size: 10px;
+        font-size: 8px;
         height: 400px;
     }
 
@@ -476,7 +476,7 @@ input, label, select {
         color: black;
        width: 250px;
        margin-top: 20px;
-       float: left;
+       margin-right: -20px;
     }
 
     .timetable > p {
