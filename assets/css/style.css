@@ -377,7 +377,7 @@ input, label, select {
 /* iphone Xr screensize */
 
 
-@media screen and (min-width: 300px) and (max-width: 800px) {
+@media screen and (min-width: 250px) and (max-width: 800px) {
    
     nav ul {
         width: auto; 
